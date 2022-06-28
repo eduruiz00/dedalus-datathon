@@ -1,0 +1,7 @@
+# Custom ignores
+logs
+data
+sqlite
+
+# Jupyter Notebook
+.ipynb_checkpoints
